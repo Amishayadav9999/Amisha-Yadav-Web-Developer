@@ -1,4 +1,4 @@
- <img height="300" width="1000" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnM5MmQyMzAyMWxqc3VobG8xdHgxN2ZkZnZvbWFmOWw1emhjbzl2bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4H3Ii5eLChYul9p7NL/giphy.webp"  />
+ <img height="300" width="1000" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnM5MmQyMzAyMWxqc3VobG8xdHgxN2ZkZnZvbWFmOWw1emhjbzl2bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOEbLRT4SwD35IELiQ/200.webp"  />
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
