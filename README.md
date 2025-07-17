@@ -1,3 +1,6 @@
+ <img height="500" width="1000" src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2hmcm1lbXZlNW02b3Q4N3llejMwZzE4Mm91cHAweXE4ZWYydG53dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LD2ZJ0pdNmCxFikNQ5/giphy.webp"  />
+
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -6,8 +9,7 @@
 
 ###
 
-<h2 align="left">Hey there! I'm a web developer currently learning React.js and building interactive, user-friendly websites. I enjoy figuring out how things work, writing clean code, and solving real problems through technology.</h2>
-
+<h2 align="left">Hey there! I'm a web developer currently learning React.js and building interactive, user-friendly websites. I enjoy figuring out how things work, writing clean code, and solving real problems through technology. </h2> 
 ###
 
 <p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently learning react.js.<br>🎯 Goals: To become a skilled full-stack developer and work on impactful projects<br>🎲 Fun fact: I still use sketch pens to map out my ideas before I write a single line of code—color-coded logic just makes more sense!</p>
@@ -15,6 +17,7 @@
 ###
 
 <h2 align="left">I code with</h2>
+
 
 ###
 
@@ -67,7 +70,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="300" width="300" src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2hmcm1lbXZlNW02b3Q4N3llejMwZzE4Mm91cHAweXE4ZWYydG53dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LD2ZJ0pdNmCxFikNQ5/giphy.webp"  />
 </div>
 
 ###
