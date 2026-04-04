@@ -39,7 +39,7 @@
 # ⚡ Tech Universe  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,typescript,react,nextjs,django,flask,html,css,bootstrap,tailwind,mysql,postgresql,mongodb,git,github, ms-excel,numpy,pandas,matplotlib,AWS,vscode,postman,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,typescript,react,nextjs,django,flask,html,css,bootstrap,tailwind,mysql,postgresql,mongodb,git,github,numpy,pandas,matplotlib,aws,vscode,postman,linux&theme=dark" />
 </p>
 
 <p align="center">
