@@ -7,7 +7,7 @@
 <h1 align="center">⚡ Amisha Yadav ⚡</h1>
 
 <h3 align="center">
-  🚀 Data Analyst • Full Stack Developer • AI Explorer
+  🚀 Data Analyst • Full Stack Developer • AI Explorer • Python Developer
 </h3>
 
 <p align="center">
