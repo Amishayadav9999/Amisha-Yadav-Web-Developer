@@ -1,7 +1,7 @@
 <!-- 💎 ULTRA PREMIUM GITHUB PROFILE -->
 
 <p align="center">
-  <img src="YOUR_IMAGE_RAW_URL" width="100%" />
+  <img src="https://github.com/Amishayadav9999/Amishayadav9999/blob/main/banner.png" width="100%" />
 </p>
 
 <h1 align="center">⚡ Amisha Yadav ⚡</h1>
