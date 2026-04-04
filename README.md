@@ -94,11 +94,11 @@
 
 ---
 
-## 📈 GitHub Analytics  
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amishayadav9999&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amishayadav9999&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amishayadav9999&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=Amishayadav9999&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
