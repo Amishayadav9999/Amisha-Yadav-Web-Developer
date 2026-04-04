@@ -76,17 +76,21 @@
 
 ---
 
-# 🚀 Featured Projects  
+## 🚀 Featured Projects  
 
 ### 📊 Data Analytics  
-🔹 Sales Dashboard (Power BI)  
-🔹 Customer Segmentation (ML + Python)  
-🔹 EDA Projects (Pandas + Visualization)  
+🔹 HR Analytics Dashboard (Power BI)  
+→ Employee data analysis & interactive HR insights  
+
+🔹 Blinkit Sales Dashboard (Power BI)  
+→ Sales, delivery & customer behavior visualization  
 
 ### 💻 Development  
-🔹 Django Blogging API  
-🔹 Student Management System  
-🔹 Portfolio Website (React)  
+🔹 Sipher Web Tech Portfolio (React + Tailwind)  
+→ Responsive modern UI with animations  
+
+🔹 Library Management System (Django + MySQL)  
+→ Full system with authentication & reporting  
 
 ---
 
